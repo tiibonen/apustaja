@@ -34,3 +34,4 @@ jobs:
         with:
           name: frog-word-widget-apk
           path: frog-widget-project/app/build/outputs/apk/debug/app-debug.apk
+          # Build frog widget
